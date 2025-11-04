@@ -1,4 +1,4 @@
-# SorveteBigData
+# SorveteQualidadeDeSoftware
 
 ATIVIDADE DE CURSO DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (SENAC-PE); MATÉRIA - Qualidade de Software
 
