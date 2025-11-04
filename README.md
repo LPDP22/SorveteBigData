@@ -1,6 +1,6 @@
 # SorveteBigData
 
-ATIVIDADE DE CURSO DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (SENAC-PE); MATÉRIA - BIG DATA
+ATIVIDADE DE CURSO DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (SENAC-PE); MATÉRIA - Qualidade de Software
 
 Imagine uma sorveteria que define o preço de seus sorvetes da seguinte forma:
  
