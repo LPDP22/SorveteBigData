@@ -24,11 +24,10 @@ if qtdcobertura == 1:
         premium = premium + 2
         
 precototal = input("Você quer o preço normal ou o Premium? ")
-if precototal != "preco" or "premium":
-    print("ERRO! Digite 'preco' ou 'premium'")
-elif precototal == "preco":
+if precototal == "preco":
     print(preco)
 elif precototal == "premium":
     print(premium)
     
     
+
